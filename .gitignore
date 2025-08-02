@@ -1,2 +1,6 @@
 # Google App Engine generated folder
 appengine-generated/
+data/
+.env
+vector_store/
+.venv/
